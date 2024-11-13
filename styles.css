@@ -96,7 +96,7 @@ section{
     list-style-position: inside;
 }
 
-.text ol{
+ol{
     text-indent: 0px;
     list-style-position: inside;
 }
