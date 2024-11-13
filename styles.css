@@ -91,7 +91,7 @@ section{
     font-size: 1.2rem;
 }
 
-.text ul{
+.text ul, .text ol{
     text-indent: 0px;
     list-style-position: inside;
 }
